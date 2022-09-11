@@ -1,3 +1,5 @@
+'Write a program to collect the student details and print the output
+'https://replit.com/@raveendrapadala/DodgerblueScholarlyVerification#main.bas
 CLS
 INPUT "What is the student Name?";Name
 INPUT "Which standard are you studying?";Class
